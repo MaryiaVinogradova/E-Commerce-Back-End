@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"module-13-challenge-orm","dependencies":{"dotenv":{"version":"8.6.0"},"express":{"version":"4.17.3"},"mysql2":{"version":"2.3.3"},"sequelize":{"version":"5.22.5"}}}
