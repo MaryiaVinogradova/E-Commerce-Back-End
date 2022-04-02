@@ -14,10 +14,11 @@
 
 ## Installation & Usage
   For installation and usagemake sure that your database is selected - to interract with it. For this you should open integrated terminal and type:
-  1) mysql -u roo -p;
-  2) source schema.sql;
-  3) use ecommerce_db;
-  4) quit;
+  1) mysql -u root -p;
+  2) no password - just push enter;
+  3) source schema.sql;
+  4) use ecommerce_db;
+  5) quit;
 
   After your database in use - open server file in integrated terminal and type:
   1) npm i
